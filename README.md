@@ -1,2 +1,2 @@
 # Ping-pong_gg
-Classic ping pong - the best original in the world
+Classic Ping Pong - the best original Ping Pong in the world.
