@@ -60,11 +60,7 @@ while run:
         if e.type == QUIT:
             run = False
     if finish != True:
-
         window.fill(Back)
-
-
-
         racket1.update_left()
         racket2.update_right()
         ball.rect.x += speed_x
